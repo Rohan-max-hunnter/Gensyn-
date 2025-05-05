@@ -189,4 +189,4 @@ cd rl-swarm
 ```
 git pull
 ```
-## Note if  you installing from  may  5th or later you no need to update node it directly install as latest version
+## Note if  you installing from  may  5th or later you no need to update node it directly install as latest version 0.4.2

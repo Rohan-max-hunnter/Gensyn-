@@ -5,6 +5,14 @@
 ### Dashboard (check ur points) - https://dashboard.gensyn.ai/ 
 
 ![image](https://github.com/user-attachments/assets/935a14ac-06f0-497a-b42d-5b3928038ee9)
+# For new vps and local pc 
+```
+sudo apt install
+```
+```
+sudo apt update
+sudo apt upgrade -y
+```
 
 1️⃣ Install Python and Other Tools
 For Linux/Wsl
@@ -56,11 +64,12 @@ git clone https://github.com/gensyn-ai/rl-swarm/
 
 For VPS Only
 ```
-apt install screen -y
+sudo apt install screen -y
 ```
 ```
 screen -S gensyn
 ```
+# For both users (PC/VPS)
 ```
 cd rl-swarm
 python3 -m venv .venv
@@ -79,7 +88,7 @@ yarn upgrade &&  yarn add next@latest &&  yarn add viem@latest
 ```
 5️⃣  Run the swarm Node 🚀
 ```
-cd rl-swarm
+cd ..
 ```
 ```
 ./run_rl_swarm.sh

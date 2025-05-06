@@ -2,7 +2,9 @@
 
 ### Offical Docs Guide - https://github.com/gensyn-ai/rl-swarm?tab=readme-ov-file
 
-### Dashboard (check ur points) - https://dashboard.gensyn.ai/ 
+### Dashboard (check ur points) - https://dashboard.gensyn.ai/  
+
+# For math hard :- https://dashboard-math-hard.gensyn.ai/ 
 
 ![image](https://github.com/user-attachments/assets/935a14ac-06f0-497a-b42d-5b3928038ee9)
 # For new vps and local pc 
